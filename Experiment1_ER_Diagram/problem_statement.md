@@ -22,8 +22,8 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_fitness.png)
+<img width="989" height="675" alt="image" src="https://github.com/user-attachments/assets/4f223aef-1ae2-4e28-b539-e837b94cd6c0" />
+
 
 ### Entities and Attributes
 
@@ -44,9 +44,10 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 |              |            |               |       |
 
 ### Assumptions
-- 
-- 
-- 
+* A member can join multiple programs (e.g., Yoga, Zumba, Weight Training)
+* A trainer can conduct multiple programs, but each program is managed by one trainer.
+* Payments are made either for membership or for individual sessions.
+
 
 ---
 
