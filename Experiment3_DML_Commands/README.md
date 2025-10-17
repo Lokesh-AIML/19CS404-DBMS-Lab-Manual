@@ -6,6 +6,7 @@ To study and implement DML (Data Manipulation Language) commands.
 ## THEORY
 
 Developed by : Lokeshwaran S
+
 Register No : 212224240080
 
 ### 1. INSERT INTO
